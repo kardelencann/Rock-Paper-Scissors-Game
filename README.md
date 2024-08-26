@@ -1,4 +1,5 @@
 Rock Paper Scissors Game
+
 This is a simple command-line implementation of the classic "Rock, Paper, Scissors" game. 
 The game is written in Python and allows a player to compete against the computer. 
 The game continues until either the player or the computer wins two rounds.
